@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sai_ganesh_0084" target="blank"><img src="https://img.shields.io/twitter/follow/sai_ganesh_0084?logo=twitter&style=for-the-badge" alt="sai_ganesh_0084" /></a> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **saiganeshganoju@gmail.com**
 
