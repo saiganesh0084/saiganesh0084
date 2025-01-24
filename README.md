@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/sai_ganesh_0084" target="blank"><img src="https://img.shields.io/twitter/follow/sai_ganesh_0084?logo=twitter&style=for-the-badge" alt="sai_ganesh_0084" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **saiganeshganoju@gmail.com**
 
 - ⚡ Fun fact **I am Crazy**
-<h6 align="center">A bit about Myself, I am Sai Ganesh pursuing my Computer Science Degree with specilization in "Artificial Intelligence" and "Machine Learning" currently, As of now, I am focused on Artificial Intelligence and Machine Learning but still, wish to explore many fields.💥</h6>
+<h6 align="center">A bit about Myself, I am Sai Ganesh pursuing my Computer Science Degree with a specialization in "Artificial Intelligence" and "Machine Learning" currently, As of now, I am focused on Artificial Intelligence and Machine Learning but still, wish to explore many fields.💥</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
