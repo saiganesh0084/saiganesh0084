@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiganesh0084&label=Profile%20views&color=0e75b6&style=flat" alt="saiganesh0084" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sai_ganesh_0084" target="blank"><img src="https://img.shields.io/twitter/follow/sai_ganesh_0084?logo=twitter&style=for-the-badge" alt="sai_ganesh_0084" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science and Artificial Intelligence**
 
 - 📫 How to reach me **saiganeshganoju@gmail.com**
