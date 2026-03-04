@@ -1,5 +1,5 @@
-<img src="https://github.com/saiganesh0084/saiganesh0084/blob/main/header.gif?raw=true">
-<h1 align="center">Hi 👋, I'm Sai Ganesh Ganoju</h1>
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<h1 align="center">Hi 👋, I'm Ganoju Sai Ganesh</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Always+Learning+New+Things;Data+Science-AI+Enthusias;Open-Source+Enthusiast;Always+Learning+New+Things;Data+Science+&+AI+Enthusias;Nice+To+Meet+You+...&center=true">
 </p>
